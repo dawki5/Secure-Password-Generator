@@ -36,6 +36,8 @@ This webpage is used to generate a secure and random password from a selection o
 
 ## Links
 
+https://dawki5.github.io/Secure-Password-Generator/
+
 ## Screenshot
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/109554960/196871304-38f8573c-6cfc-42a2-82ee-2ae922330af3.png)
